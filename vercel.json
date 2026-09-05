@@ -1,9 +1,5 @@
 {
-  "outputDirectory": "docs",
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/index.html"
-    }
-  ]
+  "framework": null,
+  "buildCommand": "true",
+  "outputDirectory": "docs"
 }
