@@ -2,34 +2,32 @@
 
 - Getting started
 
-  - [Quick start](quickstart.md)
-  - [Adding pages](adding-pages.md)
-  - [Cover page](cover.md)
-  - [Custom navbar](custom-navbar.md)
+  - [Introduction](introduction.md)
+  - [Setup](Setup.md)
 
-- Customization
+- Usage
+  - [Use in programming task](usage-auto-api.md)
+  - [Claude Code inference](usage-claude-code.md)
+  - Use in n8n
 
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
-  - [Emoji](emoji.md)
+- Guides
 
-- Guide
+  - [Browcall Architecture](browcall-architecture.md)
+  - [Browcall CLI Guide](browcall-cli-guide.md)
 
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode (PWA)](pwa.md)
-  - [Embed Files](embed-files.md)
-  - [UI Kit](ui-kit.md)
+---
 
-- Upgrading
+- Tiếng Việt
 
-  - [v4 to v5](v5-upgrade.md)
+  - [Giới thiệu](vi/introduction.md)
+  - [Cài đặt](vi/installation.md)
 
-* [Awesome docsify](awesome.md)
-* [Changelog](changelog.md)
+- Sử dụng
+
+  - [Dùng trong tác vụ lập trình](vi/usage-auto-api.md)
+  - [Suy luận Claude Code](vi/usage-claude-code.md)
+
+- Hướng dẫn
+
+  - [Kiến trúc Browcall](vi/browcall-architecture.md)
+  - [Hướng dẫn Browcall CLI](vi/browcall-cli-guide.md)

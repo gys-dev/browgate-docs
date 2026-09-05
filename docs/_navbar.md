@@ -1,6 +1,6 @@
 <!-- markdownlint-disable first-line-h1 -->
 
-- Translations
+- Languages
 
   - [English](/)
-  - [简体中文](/zh-cn/)
+  - [Tiếng Việt](/vi/)
