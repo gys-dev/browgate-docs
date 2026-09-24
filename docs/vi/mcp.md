@@ -63,12 +63,12 @@ File được tạo có dạng:
 
 ### Cấu hình Bridge
 
-| Field | Mô tả | Ví dụ |
-| --- | --- | --- |
-| `gatewayUrl` | WebSocket URL của MCP Gateway | `ws://localhost:8768` |
-| `bridgeId` | ID duy nhất của Bridge | `my-project-bridge` |
-| `workspaceId` | ID của workspace | `my-project` |
-| `clientName` | Tên hiển thị | `My Local Bridge` |
+| Field         | Mô tả                         | Ví dụ                 |
+| ------------- | ----------------------------- | --------------------- |
+| `gatewayUrl`  | WebSocket URL của MCP Gateway | `ws://localhost:8768` |
+| `bridgeId`    | ID duy nhất của Bridge        | `my-project-bridge`   |
+| `workspaceId` | ID của workspace              | `my-project`          |
+| `clientName`  | Tên hiển thị                  | `My Local Bridge`     |
 
 Thông thường, khi tạo project mới, bạn chỉ cần thay đổi `bridgeId` và `workspaceId`.
 
@@ -178,9 +178,7 @@ Có thể cấu hình nhiều MCP server trong cùng một file:
     },
     "my-server": {
       "command": "node",
-      "args": [
-        "/Users/username/Documents/my-server/mcp-server.js"
-      ]
+      "args": ["/Users/username/Documents/my-server/mcp-server.js"]
     }
   }
 }

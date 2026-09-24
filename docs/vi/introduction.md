@@ -22,5 +22,8 @@ Nói ngắn gọn: đây là cầu nối giữa AI bạn đang dùng trên trìn
 ## Bước tiếp theo
 
 - Mới bắt đầu? Xem [Cài đặt](/vi/installation.md) để cài đặt và chạy Browcall.
-- Muốn dùng với Claude Code hoặc ChatGPT? Xem [Sử dụng](vi/usage-claude-code.md).
+- Muốn dùng cho các tác vụ lập trình? Xem [Dùng trong tác vụ lập trình](vi/usage-auto-api.md).
+- Muốn dùng với Claude Code? Xem [Suy luận Claude Code](vi/usage-claude-code.md).
 - Tò mò về cách hoạt động bên trong? Xem hướng dẫn [Kiến trúc Browcall](vi/browcall-architecture.md).
+- Cần cấu hình các MCP server cục bộ? Xem hướng dẫn [MCP Config](vi/mcp.md).
+- Muốn sử dụng Browcall CLI? Xem [Hướng dẫn Browcall CLI](vi/browcall-cli-guide.md).

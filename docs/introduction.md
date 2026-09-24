@@ -26,5 +26,8 @@ In short: it acts as a bridge between the AI you already use in the browser and 
 ## Where to go next
 
 - New here? Start with [Setup](Setup.md) to install and run Browcall.
-- Want to use it with Claude Code or ChatGPT? See [Usage](usage-claude-code.md).
+- Want to use it for programming tasks? See [Use in programming task](usage-auto-api.md).
+- Want to use it with Claude Code? See [Claude Code inference](usage-claude-code.md).
 - Curious how it works under the hood? See the [Browcall Architecture](browcall-architecture.md) guide.
+- Need to configure local MCP servers? See the [MCP Config](mcp.md) guide.
+- Want to use the Browcall CLI? See the [Browcall CLI Guide](browcall-cli-guide.md).

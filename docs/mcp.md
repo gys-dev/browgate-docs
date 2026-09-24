@@ -63,12 +63,12 @@ A generated configuration looks like:
 
 ### Bridge settings
 
-| Field | Description | Example |
-| --- | --- | --- |
-| `gatewayUrl` | MCP Gateway WebSocket URL | `ws://localhost:8768` |
-| `bridgeId` | Unique ID for the bridge | `my-project-bridge` |
-| `workspaceId` | Workspace ID | `my-project` |
-| `clientName` | Display name | `My Local Bridge` |
+| Field         | Description               | Example               |
+| ------------- | ------------------------- | --------------------- |
+| `gatewayUrl`  | MCP Gateway WebSocket URL | `ws://localhost:8768` |
+| `bridgeId`    | Unique ID for the bridge  | `my-project-bridge`   |
+| `workspaceId` | Workspace ID              | `my-project`          |
+| `clientName`  | Display name              | `My Local Bridge`     |
 
 Normally, you only need to change `bridgeId` and `workspaceId` for a new project.
 
@@ -178,9 +178,7 @@ Multiple MCP servers can be configured in the same file:
     },
     "my-server": {
       "command": "node",
-      "args": [
-        "/Users/username/Documents/my-server/mcp-server.js"
-      ]
+      "args": ["/Users/username/Documents/my-server/mcp-server.js"]
     }
   }
 }
