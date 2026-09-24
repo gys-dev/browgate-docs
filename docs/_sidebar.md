@@ -14,6 +14,7 @@
 
   - [Browcall Architecture](browcall-architecture.md)
   - [Browcall CLI Guide](browcall-cli-guide.md)
+  - [Mcp Config](mcp.md)
 
 ---
 
@@ -31,3 +32,4 @@
 
   - [Kiến trúc Browcall](vi/browcall-architecture.md)
   - [Hướng dẫn Browcall CLI](vi/browcall-cli-guide.md)
+  - [Mcp Config](vi/mcp.md)
