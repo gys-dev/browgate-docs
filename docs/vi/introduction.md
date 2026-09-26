@@ -4,6 +4,10 @@
 
 Nói ngắn gọn: đây là cầu nối giữa AI bạn đang dùng trên trình duyệt và các ứng dụng, file, quy trình tự động, AI-Agent đang chạy trên máy của bạn.
 
+![Browgate Social Post Image](_images/youtube_banner.png)
+
+## Demo 
+
 <video controls width="100%">
   <source src="_media/Auto-Browser-Final.mp4" type="video/mp4">
   Your browser does not support the video tag. 

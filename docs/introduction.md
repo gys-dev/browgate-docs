@@ -8,6 +8,10 @@
 
 In short: it acts as a bridge between the AI you already use in the browser and the apps, files, and automations, AI-Agent running on your machine.
 
+![Browgate Social Post Image](_images/youtube_banner.png)
+
+## Demo
+
 <video controls width="100%">
   <source src="_media/Auto-Browser-Final.mp4" type="video/mp4">
   Your browser does not support the video tag.
